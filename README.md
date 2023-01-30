@@ -73,10 +73,21 @@ Backend $ npm run dev
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
-##Preview
+
+## Preview 
 
 ### Incidencias
-<img src="https://media.giphy.com/media/YGhrUUHlIwDHX7fA8l/giphy.gif"> 
+<img src="https://media.giphy.com/media/YGhrUUHlIwDHX7fA8l/giphy.gif" width="160"> 
+
+### Chatbot de Asistencia Virtual
+<img src="https://media.giphy.com/media/SBppHA06Rzx4h1JYRM/giphy.gif"> 
+
+### Crear Incidencias
+<img src="https://media.giphy.com/media/d8CgYGnRiyxG2QO3Hb/giphy.gif"> 
+
+### Crear eventos
+<img src="https://media.giphy.com/media/wXl9cbziIlW24jJEb7/giphy.gif"> 
+
 
 ## Autores
 
