@@ -77,16 +77,16 @@ Backend $ npm run dev
 ## Preview 
 
 ### Incidencias
-<img src="https://media.giphy.com/media/YGhrUUHlIwDHX7fA8l/giphy.gif" width="1080"> 
+<img src="https://media.giphy.com/media/YGhrUUHlIwDHX7fA8l/giphy.gif" width="680"> 
 
 ### Chatbot de Asistencia Virtual
-<img src="https://media.giphy.com/media/SBppHA06Rzx4h1JYRM/giphy.gif"> 
+<img src="https://media.giphy.com/media/SBppHA06Rzx4h1JYRM/giphy.gif" width="680"> 
 
 ### Crear Incidencias
-<img src="https://media.giphy.com/media/d8CgYGnRiyxG2QO3Hb/giphy.gif"> 
+<img src="https://media.giphy.com/media/d8CgYGnRiyxG2QO3Hb/giphy.gif" width="680"> 
 
 ### Crear eventos
-<img src="https://media.giphy.com/media/wXl9cbziIlW24jJEb7/giphy.gif"> 
+<img src="https://media.giphy.com/media/wXl9cbziIlW24jJEb7/giphy.gif" width="680"> 
 
 
 ## Autores
