@@ -73,6 +73,11 @@ Backend $ npm run dev
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
+##Preview
+
+### Incidencias
+<img src="https://media.giphy.com/media/YGhrUUHlIwDHX7fA8l/giphy.gif"> 
+
 ## Autores
 
 ## [Sif](https://github.com/Sif03)
