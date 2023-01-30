@@ -77,7 +77,7 @@ Backend $ npm run dev
 ## Preview 
 
 ### Incidencias
-<img src="https://media.giphy.com/media/YGhrUUHlIwDHX7fA8l/giphy.gif" width="160"> 
+<img src="https://media.giphy.com/media/YGhrUUHlIwDHX7fA8l/giphy.gif" width="1080"> 
 
 ### Chatbot de Asistencia Virtual
 <img src="https://media.giphy.com/media/SBppHA06Rzx4h1JYRM/giphy.gif"> 
